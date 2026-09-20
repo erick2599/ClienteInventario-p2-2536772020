@@ -1,0 +1,9 @@
+[ {
+  "id" : 1,
+  "nombre" : "Teclado mecanico",
+  "cantidad" : 15
+}, {
+  "id" : 2,
+  "nombre" : "Monitor 24 pulgadas",
+  "cantidad" : 12
+} ]
